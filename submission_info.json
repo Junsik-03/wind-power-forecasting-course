@@ -1,4 +1,4 @@
 {
   "name": "윤준식",
-  "model_name": "Direct_Temporal_Mean5h"
+  "model_name": "Direct_Temporal_StationStats_Ensemble"
 }
